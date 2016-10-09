@@ -1,0 +1,3 @@
+DEVICENAME        /dev/scr24x0
+FRIENDLYNAME      "PCMCIA"
+LIBPATH           @PWD@/libifdshim.so

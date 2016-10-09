@@ -1,0 +1,6 @@
+Various tools to aid free SCR24x driver development, emulate and analyze the
+behavior of the original closed-source driver.
+
+In public domain, use at your own risk.
+
+Lubomir Rintel <lkundrak@v3.sk>
